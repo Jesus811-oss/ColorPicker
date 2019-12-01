@@ -2,7 +2,7 @@
 Aplicación de  asistencia para diseñadores Web ( Aun esta en Construccion)
 # Informacion/Info
 
-Para ser parte demi pequeño proyecto tiene como requisitos tener conocimientos previos de: 
+Para ser parte de mi pequeño proyecto tiene como requisitos tener conocimientos previos de: 
 HTML5
 CSS o SCSS
 Javascript
